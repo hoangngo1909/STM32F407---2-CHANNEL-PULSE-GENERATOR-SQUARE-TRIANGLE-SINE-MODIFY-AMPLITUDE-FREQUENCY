@@ -1,0 +1,78 @@
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\MayPhatSong_Gui.exe.config
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\MayPhatSong_Gui.exe
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\MayPhatSong_Gui.pdb
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.csprojResolveAssemblyReference.cache
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.Form1.resources
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.Properties.Resources.resources
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.csproj.GenerateResource.Cache
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.exe
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.pdb
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.Web.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.xml
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.Web.xml
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\de\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\es\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\fr\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\hu\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\it\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ja\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\pt\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ru\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\sk\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\sv\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\tr\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\MayPhatSong_Gui.exe.config
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.exe
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.pdb
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\MayPhatSong_Gui.exe
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\MayPhatSong_Gui.pdb
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.Web.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.xml
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.Web.xml
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\de\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\es\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\fr\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\hu\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\it\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ja\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\pt\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ru\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\sk\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\sv\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\tr\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.csprojResolveAssemblyReference.cache
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.Form1.resources
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.Properties.Resources.resources
+D:\College Documents\STM32F4\STD_Library\BTL_HETHONGDIEUKHIENNHUNG\PulseGenerator_GUI\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\MayPhatSong_Gui.exe.config
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.exe
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.pdb
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\MayPhatSong_Gui.exe
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\MayPhatSong_Gui.pdb
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.Web.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.xml
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ZedGraph.Web.xml
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.Form1.resources
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.Properties.Resources.resources
+C:\Users\admin\Desktop\HTDKN_Nhom2\CODE_GUI_PC\MayPhatSong_Gui\MayPhatSong_Gui\obj\Debug\MayPhatSong_Gui.csproj.GenerateResource.Cache
